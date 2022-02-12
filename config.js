@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'cut dy ',
     btnYes: 'hok be oi ',
     btnNo: 'o k e',
-    question: 'sao cau hok cut di',
+    question: 'sao cau hok cut dii',
     btnReply: 'Gửi cho bạn <3',
     reply: 'tai to thich cau',
     mess: 'to biet ma',
